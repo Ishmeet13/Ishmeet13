@@ -1,8 +1,9 @@
-# Ishmeet Singh Arora
-
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Ishmeet+Singh+Arora;AI+Engineer;ML+Researcher" alt="Typing SVG" />
   
-  ## AI Engineer & Machine Learning Researcher
+  ![Neural Network Animation](https://raw.githubusercontent.com/Ishmeet13/Ishmeet13/main/assets/neural-network-animation.gif)
+  
+  ### AI Engineer & Machine Learning Researcher
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmeet-singh-arora-a91344200)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arora9e@uwindsor.ca)
