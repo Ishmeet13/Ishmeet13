@@ -87,14 +87,14 @@ class HypergraphConv(nn.Module):
         return self.update_nodes(node_features, messages)
 ```
 
-### 💳 FinShield: Fraud Detection System
+### 🏡 Home Price Prediction System
 
-*Production-grade financial security with real-time anomaly detection*
+*Machine learning model for real estate valuation*
 
-- Self-supervised pre-training on 14.7M anonymized transactions
-- Multi-modal behavioral biometrics integration
-- Deployed to three major financial institutions
-- **Tech Stack:** Java, Spring Boot, Kafka, TensorFlow Serving
+- Developed predictive analytics for property pricing using extensive feature engineering
+- Deployed via Flask for real-time web-based predictions
+- Achieved 93.7% accuracy on regional housing market data
+- **Tech Stack:** scikit-learn, Flask, Pandas, Matplotlib
 
 ### 🔬 OncoPred: Cancer Genomics Platform
 
@@ -135,11 +135,31 @@ class HypergraphConv(nn.Module):
 
 ---
 
-## 📊 GitHub Activity
+## 💼 Professional Experience
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishmeet13&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishmeet13&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFB3" height="170px"/>
+  <table>
+    <tr>
+      <td>
+        <h3>🖥️ Front Developer Intern</h3>
+        <p><em>iDesign.market, Delhi | Jan 2024 - Jun 2024</em></p>
+        <ul>
+          <li>Mastered WebRTC for advanced real-time communication features</li>
+          <li>Engineered video chat functionality with instant messaging capabilities</li>
+          <li>Developed intuitive project management interfaces for stakeholder insights</li>
+        </ul>
+      </td>
+      <td>
+        <h3>🔐 Security Analyst Intern</h3>
+        <p><em>Acmegrade, Bangalore | Mar 2023 - Aug 2023</em></p>
+        <ul>
+          <li>Conducted network vulnerability assessments using Nmap Script Engines</li>
+          <li>Performed database security analysis with SQL Map</li>
+          <li>Strengthened data protection through vulnerability identification and remediation</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
