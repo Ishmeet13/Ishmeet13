@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Ishmeet+Singh+Arora;AI+Engineer;ML+Researcher" alt="Typing SVG" />
+  <!-- Neural network banner with name -->
+  <img src="https://github.com/Ishmeet13/Ishmeet13/blob/9ae8b2fcb36b34e2302a924fcef5d30ef59a5d3c/Banner-img.png" alt="Ishmeet Singh Arora - Neural Network Banner" width="100%" height="180" />
   
-  ![Neural Network Animation](https://raw.githubusercontent.com/Ishmeet13/Ishmeet13/main/assets/neural-network-animation.gif)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=AI+Engineer;ML+Researcher" alt="Typing SVG" />
   
   ### AI Engineer & Machine Learning Researcher
   
