@@ -60,6 +60,33 @@ def secure_inference(model, input_data, epsilon=2.7):
     return mask_confidence_scores(predictions, threshold=0.95)
 ```
 
+### 🐍 Customer Satisfaction Predictor
+
+*Building production-ready ML pipelines with ZenML and MLflow*
+
+- End-to-end ML pipeline for customer satisfaction prediction on e-commerce data
+- Automated training, evaluation, and deployment workflows
+- Interactive Streamlit interface for real-time predictions
+- **Tech Stack:** ZenML, MLflow, Streamlit, Python
+
+### 🖥️ Distributed File System with Multi-Server Architecture
+
+*Specialized servers handling different file types with seamless management*
+
+- Automatic file routing based on extensions to appropriate specialized servers
+- Comprehensive file operations across distributed storage nodes
+- Advanced path resolution and parallel processing capabilities
+- **Tech Stack:** C, Sockets, Process Management, Network Programming
+
+### 🐚 Unix-Style Shell Implementation
+
+*Lightweight shell with advanced piping and process management*
+
+- Supports standard and reverse piping, I/O redirection
+- Implements conditional (&&, ||) and sequential command execution
+- Custom file operations and robust error handling
+- **Tech Stack:** C, Process Management, File I/O, Signal Handling
+
 ### 🧬 HyperMolecule: Drug Discovery Engine
 
 *Revolutionizing molecular property prediction with hypergraph neural networks*
@@ -88,23 +115,64 @@ class HypergraphConv(nn.Module):
         return self.update_nodes(node_features, messages)
 ```
 
-### 🏡 Home Price Prediction System
+### 🔍 ProcessTree Explorer
 
-*Machine learning model for real estate valuation*
+*System programming utility for Linux process management*
+
+- Maps parent-child relationships in the process hierarchy
+- Identifies zombie processes and orphaned process chains
+- Controls process trees with custom signal management
+- **Tech Stack:** C, Linux /proc filesystem, Signal handling
+
+### 🏠 House Price Prediction System
+
+*Complete ML pipeline for real estate valuation*
 
 - Developed predictive analytics for property pricing using extensive feature engineering
-- Deployed via Flask for real-time web-based predictions
+- End-to-end pipeline from data cleaning to model deployment
 - Achieved 93.7% accuracy on regional housing market data
-- **Tech Stack:** scikit-learn, Flask, Pandas, Matplotlib
+- **Tech Stack:** scikit-learn, XGBoost, Pandas, Matplotlib
 
-### 🔬 OncoPred: Cancer Genomics Platform
+### 💳 Credit Card Advisor
 
-*Precision medicine platform integrating genomic data with clinical outcomes*
+*Java application using Selenium for financial product comparison*
 
-- Trained on 73,000+ patient records across 32 cancer types
-- Transformer-based architecture with genomic attention 
-- Survival prediction with confidence intervals (C-index: 0.839)
-- **Tech Stack:** PyTorch, scikit-survival, Plotly, React
+- Web scraping system for credit card data collection from banking websites
+- Spring Boot GUI for matching user preferences with optimal card options
+- Interactive comparison system with financial recommendation engine
+- **Tech Stack:** Java, Selenium, Spring Boot, Web Scraping
+
+### 🧬 Breast Cancer Genomic Analysis
+
+*ML-based analysis of cancer genomic data from Memorial Sloan-Kettering*
+
+- Predictive models for survival based on mutation profiles
+- Random Forest (85% accuracy), SVM (83%), and Naive Bayes implementation
+- Identified key genetic markers in cancer progression
+- **Tech Stack:** Python, scikit-learn, Pandas, Matplotlib
+
+### 🔒 Membership Inference Attack
+
+*Implementation of privacy vulnerability testing for ML models*
+
+- Comprehensive evaluation of CNN models on standard datasets
+- Demonstrated varying attack success rates based on model complexity
+- Privacy vulnerability assessment framework for deep learning systems
+- **Tech Stack:** PyTorch, LightGBM, NumPy, Privacy Analysis
+
+---
+
+## 🔬 Currently Working On
+
+### 📊 Comparative Analysis of Hypergraph Neural Networks for Molecular Property Prediction
+
+*Investigating the role of dense subgraph construction in molecular modeling*
+
+- Evaluating different hypergraph construction techniques for molecule representation
+- Benchmarking various neural architectures for property prediction tasks
+- Analyzing the impact of dense subgraph identification on model performance
+- Developing novel attention mechanisms for higher-order molecular interactions
+- **Tech Stack:** PyTorch Geometric, DGL, RDKit, JAX
 
 ---
 
