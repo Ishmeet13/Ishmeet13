@@ -210,7 +210,7 @@ class HypergraphConv(nn.Module):
   <table>
     <tr>
       <td>
-        <h3>🖥️ Front Developer Intern</h3>
+        <h3>🖥️ Software Developer Intern</h3>
         <p><em>iDesign.market, Delhi | Jan 2024 - Jun 2024</em></p>
         <ul>
           <li>Mastered WebRTC for advanced real-time communication features</li>
