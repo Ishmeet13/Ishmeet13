@@ -42,7 +42,7 @@ I'm an AI Engineer specializing in privacy-preserving ML, neural architecture de
 *Production-style username availability service demonstrating scalable system design*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ishmeet13/Username_Existance/main/username-existence-check-flowchart.svg" alt="Username Existence Check Flowchart" width="700"/>
+  <img src="https://github.com/Ishmeet13/BloomCacheShards/blob/main/username-existence-check-flowchart.svg" alt="Username Existence Check Flowchart" width="700"/>
 </p>
 
 - **Bloom Filter** for ultra-fast negative checks — eliminates ~99% of DB queries
